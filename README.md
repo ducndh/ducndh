@@ -1,7 +1,7 @@
 ### Hello there! It is Duc Nguyen here 👋
 
-<div id="header" align="center">
-  <img src=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="300"/>
 </div>
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/ducndh/)">
