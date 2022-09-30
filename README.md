@@ -1,8 +1,12 @@
-### Hello there! It is Duc Nguyen here 👋
+## Hello there! It is Duc Nguyen here 👋
+
+
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="300"/>
 </div>
+
+
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/ducndh/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
