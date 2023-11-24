@@ -13,11 +13,11 @@
   </a>
 </div>
                                                                                   
-- 🔭 I’m currently studying in Carleton College as a computer science major
+- 🔭 I have recently graduated from Carleton College with computer science major and math minor
 - 🌱 I’m currently learning more about Data Analytics and Big Data
 - 👯 I’m looking to collaborate on building highly-available systems
-- 💬 Ask me about any types of books that you want to discuss
-- 📫 Reach me through nguyend@carleton.edu
+- 💬 Ask me about any types of films (I'm currently looking at French films), animes or mangas that you want to discuss
+- 📫 Reach me through ducndh@gmail.com
 - 📄 Have a look at my [resumé](https://github.com/ducndh/ducndh.github.io/blob/main/images/CV-DucNguyen-Oct2022.pdf)
 - 🌐 Check out my website: https://ducndh.github.io.
 
