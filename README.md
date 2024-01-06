@@ -1,4 +1,4 @@
-## Hello there! It is Duc Nguyen here 👋
+## Hello there! It is Duke Nguyen here 👋
 
 
 
