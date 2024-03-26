@@ -16,7 +16,7 @@
 - 🔭 I graduated from Carleton College with computer science major and math minor
 - 🌱 I’m currently learning more about Real Time Analytic System and Machine Learning Ops
 - 👯 I’m looking to collaborate on building highly-available systems
-- 💬 Ask me about any types of films (I'm currently looking at French films), animes or mangas that you want to discuss
+- 💬 Ask me about any types of films (currently not watching anything new), animes or mangas that you want to discuss
 - 📫 Reach me through ducndh@gmail.com
 - 📄 Have a look at my [resumé](https://github.com/ducndh/ducndh.github.io/blob/main/images/CV-DukeNguyenCS-Experienced.pdf)
 - 🌐 Check out my website: https://ducndh.github.io.
